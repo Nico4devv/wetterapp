@@ -1,0 +1,14 @@
+# API-Key niemals auf GitHub pushen!
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Favoriten (optional, kannst du auch tracken)
+favorites.json
+
+# IDE
+.vscode/
+.idea/
